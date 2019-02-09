@@ -1,0 +1,22 @@
+ p {
+    color:darkmagenta;
+    font-size: 18px;
+    background:peachpuff;
+}
+#identyficator {
+    color: blue;
+    font-size: 16px;
+    background: yellowgreen;
+
+}
+.class {
+    color: rgb(66, 8, 94);
+}
+#footer{
+    color: rgb(105, 235, 72);
+    background: gray;
+    font-style: italic;
+}
+  h3 {
+    color: rgb(58, 61, 60);
+}
